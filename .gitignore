@@ -1,0 +1,4 @@
+success*.png
+tmpl.*
+*.md
+!README.md
